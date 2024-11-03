@@ -5,7 +5,7 @@ A Deno module for reading files line by line with line numbers.
 ## Installation
 
 ```ts
-import { byLine } from "jsr:@username/by-line";
+import { byLine } from "jsr:@gwash3189/by-line";
 ```
 
 ## Usage
