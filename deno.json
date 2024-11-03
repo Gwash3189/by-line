@@ -10,5 +10,12 @@
   },
   "name": "@gwash3189/by-line",
   "version": "0.1.0",
-  "exports": "./mod.ts"
+  "exports": "./mod.ts",
+  "publish": {
+    "include": [
+      "mod.ts",
+      "README.md",
+      "LICENSE"
+    ]
+  }
 }
