@@ -20,7 +20,7 @@ async function main() {
 
 ## Required Permissions
 
---allow-read: Required to read input files
+`--allow-read`
 
 ## License
 
