@@ -3,7 +3,8 @@
     "dev": "deno run --watch main.ts",
     "test": "deno test mod_test.ts --allow-read",
     "test:watch": "deno run test --watch",
-    "ok": "deno fmt && deno run test"
+    "ok": "deno fmt && deno run test",
+    "bench": "deno bench --allow-read --allow-write benchmark.ts"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1",
